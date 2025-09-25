@@ -1,0 +1,330 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon78ed.eot?orkqwr');
+  src: url('fonts/icomoon78ed.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon78ed.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon78ed.woff?orkqwr') format('woff'),
+    url('fonts/icomoon78ed.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+.icon-magnifying-glass:before {
+  content: "\e900";
+}
+
+.icon-search:before {
+  content: "\e901";
+}
+
+.icon-twitter:before {
+  content: "\e902";
+}
+
+.icon-facebook:before {
+  content: "\e903";
+}
+
+.icon-pinterest:before {
+  content: "\e904";
+}
+
+.icon-instagram:before {
+  content: "\e905";
+}
+
+.icon-facebook-1:before {
+  content: "\e906";
+}
+
+.icon-plus:before {
+  content: "\e907";
+}
+
+.icon-minus:before {
+  content: "\e908";
+}
+
+.icon-telephone-call:before {
+  content: "\e909";
+}
+
+.icon-right-arrow:before {
+  content: "\e90a";
+}
+
+.icon-left-arrow:before {
+  content: "\e90b";
+}
+
+.icon-left-arrow-1:before {
+  content: "\e90c";
+}
+
+.icon-right-arrow-1:before {
+  content: "\e90d";
+}
+
+.icon-check:before {
+  content: "\e90e";
+}
+
+.icon-check-1:before {
+  content: "\e90f";
+}
+
+.icon-house:before {
+  content: "\e910";
+}
+
+.icon-cleaning:before {
+  content: "\e911";
+}
+
+.icon-window-cleaning:before {
+  content: "\e912";
+}
+
+.icon-sanitary:before {
+  content: "\e913";
+}
+
+.icon-clean:before {
+  content: "\e914";
+}
+
+.icon-mop:before {
+  content: "\e915";
+}
+
+.icon-floor-mop:before {
+  content: "\e916";
+}
+
+.icon-washing-plate:before {
+  content: "\e917";
+}
+
+.icon-complete:before {
+  content: "\e918";
+}
+
+.icon-file:before {
+  content: "\e919";
+}
+
+.icon-feedback:before {
+  content: "\e91a";
+}
+
+.icon-team:before {
+  content: "\e91b";
+}
+
+.icon-cleaner:before {
+  content: "\e91c";
+}
+
+.icon-export:before {
+  content: "\e91d";
+}
+
+.icon-linked-in-logo-of-two-letters:before {
+  content: "\e91e";
+}
+
+.icon-dribbble:before {
+  content: "\e91f";
+}
+
+.icon-pointed-star:before {
+  content: "\e920";
+}
+
+.icon-right-quotation-mark:before {
+  content: "\e921";
+}
+
+.icon-quote:before {
+  content: "\e922";
+}
+
+.icon-quote-left:before {
+  content: "\e923";
+}
+
+.icon-conversation:before {
+  content: "\e924";
+}
+
+.icon-bookmark:before {
+  content: "\e925";
+}
+
+.icon-send:before {
+  content: "\e926";
+}
+
+.icon-open-mail:before {
+  content: "\e927";
+}
+
+.icon-cleaning-1:before {
+  content: "\e928";
+}
+
+.icon-household:before {
+  content: "\e929";
+}
+
+.icon-house-1:before {
+  content: "\e92a";
+}
+
+.icon-oosouji:before {
+  content: "\e92b";
+}
+
+.icon-right:before {
+  content: "\e92c";
+}
+
+.icon-down-arrow:before {
+  content: "\e92d";
+}
+
+.icon-up-arrow:before {
+  content: "\e92e";
+}
+
+.icon-straight-quotes:before {
+  content: "\e92f";
+}
+
+.icon-star:before {
+  content: "\e930";
+}
+
+.icon-visibility:before {
+  content: "\e931";
+}
+
+.icon-heart:before {
+  content: "\e932";
+}
+
+.icon-chatting:before {
+  content: "\e933";
+}
+
+.icon-play:before {
+  content: "\e934";
+}
+
+.icon-play-1:before {
+  content: "\e935";
+}
+
+.icon-play-button:before {
+  content: "\e936";
+}
+
+.icon-office-desk:before {
+  content: "\e937";
+}
+
+.icon-carpet:before {
+  content: "\e938";
+}
+
+.icon-working-time:before {
+  content: "\e939";
+}
+
+.icon-wash-your-hands:before {
+  content: "\e93a";
+}
+
+.icon-packaging:before {
+  content: "\e93b";
+}
+
+.icon-share:before {
+  content: "\e93c";
+}
+
+.icon-user:before {
+  content: "\e93d";
+}
+
+.icon-group:before {
+  content: "\e93e";
+}
+
+.icon-consulting:before {
+  content: "\e93f";
+}
+
+.icon-support:before {
+  content: "\e940";
+}
+
+.icon-lightbulb:before {
+  content: "\e941";
+}
+
+.icon-grid:before {
+  content: "\e942";
+}
+
+.icon-grid-1:before {
+  content: "\e943";
+}
+
+.icon-menu-of-three-lines:before {
+  content: "\e944";
+}
+
+.icon-left-arrow-2:before {
+  content: "\e945";
+}
+
+.icon-right-chevron:before {
+  content: "\e946";
+}
+
+.icon-shopping-basket:before {
+  content: "\e947";
+}
+
+.icon-map:before {
+  content: "\e948";
+}
+
+.icon-call:before {
+  content: "\e949";
+}
